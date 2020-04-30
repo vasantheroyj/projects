@@ -1,0 +1,17 @@
+body
+{
+background-color: #ffff00;
+}
+
+#header-nav
+{
+background-color: #ffffff;
+}
+#icon
+{
+background:url('../Images/Calc.png') no-repeat;
+width: 150px;
+height: 150px;
+
+}
+

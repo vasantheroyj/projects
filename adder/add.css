@@ -77,7 +77,7 @@ font-family: 'Poppins', sans-serif;
   padding-left: 2vh;
   border: 0.05vh solid orange;
   color: orange;
-  text-shadow: 0.05vh 0.05vh #333, -0.05vh 0.05vh #333, 0.05vh -0.05vh #333, -0.05vh -0.05vh #333;
+  text-shadow: 0.05vh 0.05vh #333;
 }
 
 #one
